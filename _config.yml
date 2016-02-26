@@ -1,7 +1,7 @@
 name: RedfordResearch
 favicon: null
-layout_spectrum: 0.6013845286797732
-typography_spectrum: 0.03474936936981976
+layout_spectrum: 1
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.049600872211158276
-  lightness: 0.1872166246175766
-  saturation: 0.9036770206876099
-  rhythmicContrast: 0.8372188683133572
+    - '#000000'
+    - '#4f4f4f'
+    - '#f06000'
+    - '#b73501'
+    - '#9f9f9f'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
